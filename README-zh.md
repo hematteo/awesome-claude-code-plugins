@@ -152,6 +152,7 @@
 - [python-expert](./plugins/python-expert)
 - [rapid-prototyper](./plugins/rapid-prototyper)
 - [react-native-dev](./plugins/react-native-dev)
+- [run-suggested](./plugins/run-suggested) - 把 Claude 建议的 shell 命令变成输入框上方的编号快捷键：按一个键即可运行并实时查看输出，由你的权限规则决定哪些命令需要按两次确认。
 - [vision-specialist](./plugins/vision-specialist)
 - [web-dev](./plugins/web-dev)
 - [lightcms](./plugins/lightcms)

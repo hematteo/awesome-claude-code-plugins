@@ -2316,6 +2316,24 @@
         "tokens",
         "audit"
       ]
+    },
+    {
+      "name": "run-suggested",
+      "source": "./plugins/run-suggested",
+      "description": "Turns the shell commands Claude suggests into numbered shortcuts above the prompt: one key runs a command with live output and a stop key, and your Bash permission rules decide what needs a second press.",
+      "version": "0.1.0",
+      "author": {
+        "name": "hematteo",
+        "url": "https://github.com/hematteo"
+      },
+      "category": "Development Engineering",
+      "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/run-suggested",
+      "keywords": [
+        "shell",
+        "commands",
+        "shortcuts",
+        "terminal"
+      ]
     }
   ]
 }

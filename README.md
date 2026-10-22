@@ -236,6 +236,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [python-expert](./plugins/python-expert)
 - [rapid-prototyper](./plugins/rapid-prototyper)
 - [react-native-dev](./plugins/react-native-dev)
+- [run-suggested](./plugins/run-suggested) - Numbered shortcuts above the prompt for the shell commands Claude suggests: one key runs a command with live output, and your permission rules decide what needs a second press.
 - [silicon-friendly](./plugins/silicon-friendly)
 - [vision-specialist](./plugins/vision-specialist)
 - [web-dev](./plugins/web-dev)
