@@ -124,6 +124,7 @@
 - [dna-claude-analysis](./plugins/dna-claude-analysis)
 - [experiment-tracker](./plugins/experiment-tracker)
 - [feedback-synthesizer](./plugins/feedback-synthesizer)
+- [run-watcher](./plugins/run-watcher) - 在面板中监控本地或经 ssh 的训练日志，显示 loss 走势，并在 loss 变为 NaN 或突增、训练崩溃或输出停滞时提醒；可读取 Slurm 作业状态。
 - [trend-researcher](./plugins/trend-researcher)
 - [x-twitter-scraper](./plugins/x-twitter-scraper)
 - [session-tax](./plugins/session-tax)

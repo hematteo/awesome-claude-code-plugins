@@ -2334,6 +2334,42 @@
         "shortcuts",
         "terminal"
       ]
+    },
+    {
+      "name": "run-watcher",
+      "source": "./plugins/run-watcher",
+      "description": "Watches training logs, local or over ssh, in a pane with a loss sparkline, and alerts when the loss goes NaN or spikes, a run crashes, or its output stalls; reads Slurm job states.",
+      "version": "0.3.0",
+      "author": {
+        "name": "hematteo",
+        "url": "https://github.com/hematteo"
+      },
+      "category": "Data Analytics",
+      "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/run-watcher",
+      "keywords": [
+        "machine-learning",
+        "training",
+        "logs",
+        "slurm"
+      ]
+    },
+    {
+      "name": "anki-band",
+      "source": "./plugins/anki-band",
+      "description": "Review your Anki cards above the prompt while Claude works: one key shows the answer, one grades it, straight into your collection through AnkiConnect.",
+      "version": "0.3.0",
+      "author": {
+        "name": "hematteo",
+        "url": "https://github.com/hematteo"
+      },
+      "category": "Knowledge Management",
+      "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/anki-band",
+      "keywords": [
+        "anki",
+        "flashcards",
+        "spaced-repetition",
+        "learning"
+      ]
     }
   ]
 }
